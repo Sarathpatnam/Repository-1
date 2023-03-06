@@ -1,11 +1,21 @@
 {
- "author": "Brendan Dayley",
- "name": "censorify",
- "version": "0.1.1",
- "description": "Censors words out of text",
- "main": "censortext",
- "dependencies": {},
- "engines": {
- "node": "*"
- }
-}
+    "author": "Patnam Sarath",
+    "name": "stack",
+    "version": "0.1.1",
+    "description": "stack operations",
+    "main": "stack",
+    "repository": {
+     "type": "git",
+     "url": "https://github.com/Sarathpatnam/Repository-1"
+    },
+    "keywords": [
+     "stack operations",
+     "stack"
+    ],
+    "dependencies": {
+     "stack": "^0.1.1"
+    },
+    "engines": {
+     "node": "*"
+    }
+   }
